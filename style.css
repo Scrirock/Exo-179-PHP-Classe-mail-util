@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100%;
+    font-size: 1.6rem;
+}
+
+#container{
+    width: 10%;
+    margin: auto;
+}
+
+input, textarea{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
